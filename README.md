@@ -1,4 +1,4 @@
-# shobin
+# elaina
 - 👋 Hi, I'm @eshobin
 - 🏫 I am a student at Walpole High
 - 🎼 I can play the piano and the violin
