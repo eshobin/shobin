@@ -1,5 +1,5 @@
 # eshobin
-![octocat-1736173750429](https://github.com/user-attachments/assets/a9ef29da-7705-4749-9503-f7175c91da08)
+![octocat-1736173750429](https://github.com/user-attachments/assets/6854b910-79ee-483f-80f3-1dbb48cbe5fc)
 - 👋 Hi, I'm @eshobin
 - 🏫 I am a student at Walpole High
 - 🎼 I can play the piano and the violin
